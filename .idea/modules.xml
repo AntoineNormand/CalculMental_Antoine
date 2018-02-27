@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MathTutor-master.iml" filepath="$PROJECT_DIR$/MathTutor-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcore/testcore.iml" filepath="$PROJECT_DIR$/testcore/testcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testweb/testweb.iml" filepath="$PROJECT_DIR$/testweb/testweb.iml" />
+    </modules>
+  </component>
+</project>
